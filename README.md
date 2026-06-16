@@ -1,6 +1,6 @@
-# Marathon Tracker Support
+# RunPath Support
 
-Static support page for Marathon Tracker.
+Static support page for RunPath.
 
 ## Publish with GitHub Pages
 
